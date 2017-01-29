@@ -25,3 +25,29 @@ body {
 .levels2 {
 	margin-bottom: 0px;
 }
+
+body {
+  color: black;
+  font-family: "Open Sans", Arial, sans-serif;
+  }
+
+ .block-txt {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px:;
+}
+
+  .fa {
+  	color: black;
+  }
+
+.justif {
+	text-align: justify;
+}
+
+
+
+
+  
+  
