@@ -1,0 +1,55 @@
+.profile-picture {
+	max-width:100%;
+}
+
+body {
+	background-color: #F5F5F5;
+}
+.card {
+	margin-top: 30px;
+}
+
+.awfi {
+	margin-bottom: 0px;
+}
+
+.mod {
+	margin-bottom: 0px;
+}
+.coh {
+	margin-bottom: 0px;
+}
+.levels {
+	margin-bottom: 0px;
+}
+.levels2 {
+	margin-bottom: 0px;
+}
+
+body {
+  color: black;
+  font-family: "Open Sans", Arial, sans-serif;
+  }
+
+ .block-txt {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px:;
+}
+
+  .fa {
+  	color: black;
+  }
+
+.justif {
+	text-align: justify;
+}
+
+.toleft {
+	text-align: left;
+}
+
+
+  
+  
